@@ -1,6 +1,10 @@
 # skeleton
 skeleton repo
 
+## pre-requisites
+- install something else
+- install example
+
 ## install
 ```sh
 sudo apt-get install example
