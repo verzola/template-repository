@@ -1,32 +1,29 @@
-# skeleton
+# Skeleton
 skeleton repo
 
-## pre-requisites
-- install something else
-- install example
+## 🏆 Features
+- Lorem
+- Ipsum
+- Dolor
+- Amet
 
-## install
+## ☑️ Requirements
+- Install something else
+- Install example
+
+## 📜 Setup
 ```sh
-sudo apt-get install example
+$ sudo apt-get install example
 ```
 
-## examples
-```php
-<?php
-$example = new Example();
-$example->example();
-```
+## 📝 TODO
+- Fix bugs
+- List features
+- Implement something new
 
-## whats included?
-- lorem
-- ipsum
-- dolor
-- amet
+## ⚠️ Known issues
+- Foo
+- Bar
 
-## todo
-- fix bugs
-- list features
-- implement something new
-
-## contribute
-- send a pr with unit tests passing
+## 🙋 Contribute
+- Send a pr with unit tests passing
