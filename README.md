@@ -1,12 +1,10 @@
-# Skeleton
-Skeleton base repo
+# Template repository
+This repository is used as a base repository for others repositories that I may create
 
 ## 🏆 Features
+- Lightweight
+- Fast
 - Awesome
-- Fantastic
-- Suplendid
-- Glorious
-- Wonderful
 
 ## ☑️ Requirements
 - Foo
@@ -14,18 +12,16 @@ Skeleton base repo
 
 ## 📜 Setup
 ```sh
-$ git clone git@github.com:verzola/skeleton.git
-$ skeleton
+$ git clone git@github.com:verzola/template-repository.git
 ```
 
 ## ⚠️ Known issues
-- Lorem ipsum
-- Dolor sit amet
+- Foo does not work
+- Bar too
 
 ## 🙋 Contribute
-- Send a pull request with unit tests passing
+- Send a pull request with tests and describe your changes
 
 ## 📝 TODO
-- Fix bugs
-- List features
-- Implement something new
+- Fix issues
+- Implement foo
